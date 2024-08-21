@@ -38,10 +38,3 @@ The goal is to model the volatility of stock returns, assess their statistical p
    - **ARCH Effects:** Confirmed the presence of ARCH effects in the log returns using statistical tests on the squared residuals.
    - **Final Model Selection:** Compared multiple ARCH and GARCH models and selected the best-performing model based on diagnostic criteria and forecasting accuracy.
 
-## Technical Skills Demonstrated
-
-- **Time Series Analysis:** Proficient in analyzing and modeling time-dependent data using advanced econometric techniques.
-- **Econometric Modeling:** Expertise in fitting and interpreting ARCH/GARCH models to understand volatility dynamics in financial time series.
-- **R Programming:** Extensive use of R for statistical computing, including packages like `fGarch`, `forecast`, and base R functions for data manipulation and visualization.
-- **Statistical Testing:** Applied hypothesis testing to assess the properties of stock returns and the adequacy of fitted models.
-- **Model Diagnostics:** Performed rigorous diagnostic checks to validate model assumptions and ensure robust forecasting.
